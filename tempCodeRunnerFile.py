@@ -1,0 +1,1 @@
+C:/Users/SUSHIL/AppData/Local/Programs/Python/Python310/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml
